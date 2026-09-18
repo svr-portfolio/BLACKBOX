@@ -1,0 +1,14 @@
+# NetBeans build files
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+
+# NetBeans private user settings
+/nbproject/private/
+
+# Java compiled files
+*.class
+
+# macOS files
+.DS_Store
